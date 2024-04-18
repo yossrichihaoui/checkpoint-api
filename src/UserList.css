@@ -1,0 +1,32 @@
+/* src/UserList.css */
+
+.user-list-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #059fc5;
+  }
+  
+  .user-list-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .user-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .user-item {
+    margin-bottom: 5px;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-item:hover {
+    background-color: #f0f0f0;
+  }
+  
